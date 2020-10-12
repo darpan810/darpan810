@@ -9,15 +9,16 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Things I'm good at** 🔥
 
-**Languages**:Python 
+**Language**:Python 
 
 **Libraries & Tools**: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras, NLTK
 
-**Data Analysis**: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical
+**Data Analysis**: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical.
 
-**Algoritham** : •	Support Vector Machine, Linear and Logistic Regression, Decision Trees, Random Forest.	Neural Network, CNN (LeNet, Alex Net, Google Net) ANN
+**Algoritham** : •	Support Vector Machine, Linear and Logistic Regression, Decision Trees, Random Forest.	Neural Network, CNN (LeNet, Alex Net, Google Net) ANN.
 
-
+**Connect with Me** : Link 
+https://www.linkedin.com/in/darpannandgaonkar/ 
 
 
 

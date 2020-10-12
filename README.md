@@ -1,7 +1,7 @@
 **Hi** **There**:wave:
 
 
-I’m a electronics and telecommunication engineer graduate. I come with an extensive experience of working with different technologies including Data Science, Machine Learning  Deep Learning and NLP.
+I’m a electronics and telecommunication engineer graduate. I come with an extensive experience of working with different technologies including Data Science, Machine Learning, Deep Learning and NLP.
 
 In the past, I have worked with Marsian technology as a Intern Junior Data Scientist.
 Currently I am working in ineuron technology as a Intern 

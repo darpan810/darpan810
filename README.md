@@ -17,9 +17,8 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 **Algoritham** : •	Support Vector Machine, Linear and Logistic Regression, Decision Trees, Random Forest.	Neural Network, CNN (LeNet, Alex Net, Google Net) ANN.
 
-**Connect with Me** : Link 
-https://www.linkedin.com/in/darpannandgaonkar/ 
-
+**Connect with Me**
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/darpannandgaonkar/ 
 
 
 

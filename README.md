@@ -1,4 +1,5 @@
-**Hi** **There**:wave:
+<div align="center">
+   <h1>Hi there, I'm <a href="https://Darpan.codes">Darpan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 
 I’m a electronics and telecommunication engineer graduate. I come with an extensive experience of working with different technologies including Data Science, Machine Learning, Deep Learning and NLP.
